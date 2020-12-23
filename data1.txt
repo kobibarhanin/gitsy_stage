@@ -1,12 +1,1 @@
 information
-information
-<<<<<<< Updated upstream
-=======
-information
-information
-information
-information
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
