@@ -1,2 +1,9 @@
 information
 information
+<<<<<<< Updated upstream
+=======
+information
+information
+information
+information
+>>>>>>> Stashed changes
